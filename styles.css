@@ -1,0 +1,17 @@
+@import "https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css";
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.hero {
+    background-image: url('path-to-your-tribal-graphic.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-tribal-pattern {
+    background-image: url('path-to-your-tribal-pattern.png');
+    background-size: cover;
+    background-position: center;
+}
