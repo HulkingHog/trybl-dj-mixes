@@ -5,13 +5,13 @@ body {
 }
 
 .hero {
-    background-image: url('path-to-your-tribal-graphic.jpg');
+    background-image: url('https://source.unsplash.com/random/1920x1080?tribal-pattern');
     background-size: cover;
     background-position: center;
 }
 
 .bg-tribal-pattern {
-    background-image: url('path-to-your-tribal-pattern.png');
+    background-image: url('https://source.unsplash.com/random/1920x1080?tribal-design');
     background-size: cover;
     background-position: center;
 }
